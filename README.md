@@ -31,7 +31,7 @@ Este projeto é uma introdução prática à programação orientada a objetos e
 # Como executar o projeto
 ```bash
 # clonar repositório
-git clone https://github.com/Geremias-coder/Game-Card-Object-.git
+git clone https://github.com/Geremias-coder/Game-Card-Object.git     
 
 # Editor de código utilizado
 - Visual Studio Code 
@@ -44,7 +44,6 @@ git clone https://github.com/Geremias-coder/Game-Card-Object-.git
 
 # Autor
 Geremias Rodrigues Nunes
-
 https://www.linkedin.com/in/geremias-rodrigues-nunes-b75163214/
 
 
